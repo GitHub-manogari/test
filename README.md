@@ -1,2 +1,2 @@
 # test
-test GitLab
+test GitLab for DevOps
